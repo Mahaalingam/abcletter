@@ -16,6 +16,6 @@ public class abbcccdddd {
             sb.append(c).append(count);
         }
         System.out.println(sb.length()<a.length()?sb.toString():a);
-        //System.out.println(sb.toString());
+        //I removed this comment-Pazhani
     }
 }
